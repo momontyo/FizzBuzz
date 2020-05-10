@@ -1,5 +1,5 @@
 fn main() {
-    
+
     for num in (1..100)  {
         let stri: String = num.to_string();
 
